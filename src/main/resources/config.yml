@@ -1,0 +1,2 @@
+# Amount of players that can be in a dungeon (this number is also correlated with party size):
+max-players: 5

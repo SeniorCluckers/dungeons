@@ -1,0 +1,11 @@
+name: Dungeons
+main: com.seniorcluckers.dungeons.Dungeons
+version: 1.0
+api-version: 1.15
+description: A dungeon plugin.
+
+commands:
+  dungeons:
+    description: Dungeons main command.
+    aliases:
+      - dgs
