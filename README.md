@@ -1,4 +1,4 @@
-# dungeons
+# Dungeons
 A custom dungeons plugin.
 
 # Guide
